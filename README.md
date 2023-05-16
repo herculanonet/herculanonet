@@ -1,5 +1,4 @@
 <h2>👋 Olá! Me chamo Clailton Herculano, <b>HERCULANO</b> para os íntimos!</h2>
-<br/>
 <div dir="auto">
   <p>✨ Trabalhando com PHP (Laravel)</pn>
   <p>👀 Meu real interesse é Sistemas Web</p>
