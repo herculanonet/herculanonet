@@ -1,6 +1,6 @@
 <h2>👋 Olá! Me chamo Clailton Herculano, <b>HERCULANO</b> para os íntimos!</h2>
 <div dir="auto">
-  <p>✨ Trabalhando com PHP (Laravel)</pn>
+  <p>✨ Trabalhando, atualmente, com PHP (Laravel)</pn>
   <p>👀 Meu real interesse é Sistemas Web</p>
   <p>📫 Contato: <a href="mailto:herculano.developer@gmail.com">herculano.developer@gmail.com</a></p>
   <p>🌱 Morando atualmente em Manaus-AM</p>
