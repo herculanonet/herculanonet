@@ -1,23 +1,291 @@
-<h2>👋 Olá! Me chamo Clailton Herculano, <b>HERCULANO</b> para os íntimos!</h2>
-<div dir="auto">
-  <p>✨ Trabalhando, atualmente, com PHP (Laravel)</pn>
-  <p>👀 Meu real interesse é Sistemas Web</p>
-  <p>📫 Contato: <a href="mailto:herculano.developer@gmail.com">herculano.developer@gmail.com</a></p>
-  <p>🌱 Morando atualmente em Manaus-AM</p>
+<div align="center">
+
+👨‍💻 Clailton Herculano
+
+Full Stack Developer | SaaS | Flutter | Supabase | WordPress | PHP
+
+Transformando ideias, processos e problemas reais em produtos digitais.
+
+<br>
 </div>
-<h2 dir="auto"></h2>
-<div dir="auto">
-  <a href="https://github.com/herculanonet/">
-    <img src="https://github-readme-stats.vercel.app/api?username=herculanonet&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;" data-canonical-src="https://github-readme-stats.vercel.app/api?username=herculanonet&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;" height="180em">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculanonet&amp;layout=compact&amp;langs_count=7&amp;theme=dark" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculanonet&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;" height="180em">
-  </a>
+
+⸻
+
+👋 Sobre mim
+
+Sou Clailton Herculano, desenvolvedor de sistemas com foco na criação de plataformas SaaS, aplicações Web, sistemas administrativos, automações e soluções digitais orientadas a problemas reais.
+
+Atualmente trabalho principalmente com:
+
+* Flutter
+* Dart
+* Supabase
+* PostgreSQL
+* PHP
+* WordPress
+* JavaScript
+* HTML
+* CSS
+* SQL
+* APIs REST
+* Automação de processos
+
+Tenho uma trajetória profissional construída também na Aviação Naval, com ampla experiência técnica, supervisão, liderança de equipes, controle da qualidade, troubleshooting, documentação técnica e segurança de aviação.
+
+Essa experiência influencia diretamente a maneira como desenvolvo software: organização, rastreabilidade, segurança, documentação, confiabilidade e resolução estruturada de problemas.
+
+⸻
+
+🚀 Projetos em destaque
+
+♿ Rodas da Liberdade
+
+Plataforma para gerenciamento de doações, empréstimos e distribuição de equipamentos de mobilidade.
+
+Principais funcionalidades
+
+* Cadastro de doadores e beneficiários
+* Solicitação de equipamentos
+* Triagem de solicitações
+* Controle de equipamentos
+* Doações
+* Empréstimos
+* Gestão administrativa
+* Autenticação
+* Controle de acesso
+* Upload e armazenamento de documentos
+* Automação de processos
+
+Stack
+
+Flutter Dart Supabase PostgreSQL RLS n8n
+
+🌐 rodasdaliberdade.com.br
+
+⸻
+
+⛪ EKKLESIO
+
+CRM SaaS multi-tenant para gestão de igrejas.
+
+Projetado para permitir que diferentes organizações utilizem a mesma plataforma mantendo seus usuários, dados e operações isolados.
+
+Arquitetura
+
+* SaaS multi-tenant
+* Gestão de membros
+* CRM
+* Autenticação
+* Controle de acesso
+* Row Level Security
+* Aplicação Web
+* Aplicação Mobile
+* Gestão administrativa
+* Estrutura para múltiplas organizações
+
+Stack
+
+Flutter Dart Supabase PostgreSQL
+
+⸻
+
+✈️ Hangarete
+
+Plataforma educacional e base de conhecimento voltada para aviação e manutenção aeronáutica.
+
+O projeto une minhas duas principais áreas profissionais:
+
+Tecnologia + Aviação
+
+Recursos
+
+* Base estruturada de conhecimento
+* Aeronaves
+* Sistemas
+* Componentes
+* Conceitos
+* Glossário técnico
+* Trilhas de aprendizado
+* Relacionamento entre conteúdos
+* Sistema de pesquisa
+* SEO
+* Conteúdo técnico estruturado
+* Gestão através de WordPress
+
+Stack
+
+WordPress PHP MySQL JavaScript HTML CSS
+
+🌐 hangarete.com.br
+
+⸻
+
+🧩 Hangarete Core
+
+Plugin WordPress desenvolvido especificamente para transformar o Hangarete em uma plataforma estruturada de conhecimento aeronáutico.
+
+Arquitetura
+
+* Custom Post Types
+* Taxonomias personalizadas
+* Campos personalizados
+* Relacionamentos entre entidades
+* Metadados
+* Rastreabilidade de fontes
+* Organização por aeronave
+* Organização por sistema
+* Busca especializada
+* Templates personalizados
+
+Stack
+
+PHP WordPress MySQL JavaScript
+
+⸻
+
+🧠 O que estou construindo
+
+SaaS
+CRM
+Aplicações Web
+Aplicações Mobile
+Automação de processos
+APIs
+Sistemas administrativos
+Plataformas multi-tenant
+WordPress personalizado
+Bases estruturadas de conhecimento
+
+⸻
+
+🛠️ Tecnologias
+
+Linguagens
+
+<p>
+<img src="https://skillicons.dev/icons?i=dart,php,javascript,html,css,sql" />
+</p>
+
+Frameworks e plataformas
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,laravel,wordpress" />
+</p>
+
+Banco de dados e Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
+</p>
+
+Desenvolvimento
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+</p>
+
+⸻
+
+🏗️ Áreas de atuação
+
+Área	Experiência
+SaaS	Arquitetura e desenvolvimento de produtos
+Flutter	Aplicações Web e Mobile
+Supabase	Auth, Database, Storage e RLS
+PostgreSQL	Modelagem e gerenciamento de dados
+WordPress	Temas, plugins e soluções personalizadas
+PHP	Back-end e desenvolvimento WordPress
+APIs	Integrações e serviços REST
+Automação	Fluxos e integração de processos
+CRM	Sistemas administrativos e gestão
+Multi-tenant	Arquiteturas para múltiplas organizações
+
+⸻
+
+✈️ Tecnologia + Aviação
+
+Além de desenvolvimento de sistemas, possuo experiência profissional em manutenção aeronáutica.
+
+Minha formação técnica inclui as habilitações:
+
+AVI - Aviônica
+CEL - Célula
+GMP - Grupo Motopropulsor
+
+Minha trajetória inclui atuação com:
+
+* Manutenção aeronáutica
+* Supervisão técnica
+* Liderança de equipes
+* Controle da qualidade
+* Troubleshooting
+* Segurança de aviação
+* Documentação técnica
+* Gestão de oficinas e hangar
+
+Essa combinação me permite trabalhar não apenas com código, mas também com processos técnicos complexos, confiabilidade, documentação e resolução de problemas.
+
+⸻
+
+📊 GitHub
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=herculanonet&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculanonet&layout=compact&langs_count=8&theme=github_dark"/>
 </div>
-<h2 dir="auto"></h2>
-<div dir="auto">
-  <img alt="Herculano-PHP" src="https://camo.githubusercontent.com/9e581761c42b9210538e4727e082b7e1db70a621da3481eb6a348bdb5257af70/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width: 100%;" width="50" height="40" align="middle">
-  <img alt="Herculano-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;" width="40" height="30" align="middle">
-  <img alt="Herculano-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;" width="40" height="30" align="middle">
-  <img alt="Herculano-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;" width="40" height="30" align="middle">
-  <img alt="Herculano-Mysql" src="https://camo.githubusercontent.com/0acfb66ff89d656d796de72f1b001e92dc51bc88139b5b344339a808d35090d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" style="max-width: 100%;" width="40" height="30" align="middle">
+
+⸻
+
+🎯 Projetos atuais
+
+♿ Rodas da Liberdade: Gestão de doações e equipamentos de mobilidade
+
+⛪ EKKLESIO: CRM SaaS multi-tenant para igrejas
+
+✈️ Hangarete: Plataforma de conhecimento técnico aeronáutico
+
+🧩 Hangarete Core: Engine WordPress para organização do conhecimento
+
+🚀 Novos produtos SaaS: Desenvolvimento de soluções digitais e automações
+
+⸻
+
+💡 Princípios de desenvolvimento
+
+Arquitetura antes da implementação
+Documentação antes da complexidade
+Segurança desde o início
+Automação sempre que possível
+Código organizado e sustentável
+Tecnologia aplicada a problemas reais
+
+⸻
+
+🤝 Contato
+
+Estou aberto a conexões profissionais, desenvolvimento de produtos, tecnologia, SaaS e projetos relacionados à aviação.
+
+📧 E-mail: herculano.developer@gmail.com
+
+🌐 Website 1: herculano.net
+
+🌐 Website 2: hangarete.com.br
+
+💼 LinkedIn: linkedin.com/in/herculano2603
+
+📷 Instagram: instagram.com/herculano.developer
+
+⸻
+
+<div align="center">
+
+Software • Engenharia • Tecnologia • Aviação
+
+Construindo soluções para problemas reais.
+
+<br>
+
+⭐ Obrigado pela visita!
+
 </div>
 <h2 dir="auto"></h2>
